@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|c:\\users\\ariam\\desktop\\desktop lasalle\\lasalle\\courses\\semester 4\\420-dw4-as c9_web server ii\\lab1_aspnetconnectedmode\\lab1_aspnetconnectedmode\\dal\\utilitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|solutionrelative:lab1_aspnetconnectedmode\\dal\\utilitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|c:\\users\\ariam\\desktop\\desktop lasalle\\lasalle\\courses\\semester 4\\420-dw4-as c9_web server ii\\lab1_aspnetconnectedmode\\lab1_aspnetconnectedmode\\gui\\webformemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|solutionrelative:lab1_aspnetconnectedmode\\gui\\webformemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|c:\\users\\ariam\\desktop\\desktop lasalle\\lasalle\\courses\\semester 4\\420-dw4-as c9_web server ii\\lab1_aspnetconnectedmode\\lab1_aspnetconnectedmode\\gui\\webformemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|solutionrelative:lab1_aspnetconnectedmode\\gui\\webformemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|c:\\users\\ariam\\desktop\\desktop lasalle\\lasalle\\courses\\semester 4\\420-dw4-as c9_web server ii\\lab1_aspnetconnectedmode\\lab1_aspnetconnectedmode\\bll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|solutionrelative:lab1_aspnetconnectedmode\\bll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|c:\\users\\ariam\\desktop\\desktop lasalle\\lasalle\\courses\\semester 4\\420-dw4-as c9_web server ii\\lab1_aspnetconnectedmode\\lab1_aspnetconnectedmode\\validation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|solutionrelative:lab1_aspnetconnectedmode\\validation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|c:\\users\\ariam\\desktop\\desktop lasalle\\lasalle\\courses\\semester 4\\420-dw4-as c9_web server ii\\lab1_aspnetconnectedmode\\lab1_aspnetconnectedmode\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|solutionrelative:lab1_aspnetconnectedmode\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|c:\\users\\ariam\\desktop\\desktop lasalle\\lasalle\\courses\\semester 4\\420-dw4-as c9_web server ii\\lab1_aspnetconnectedmode\\lab1_aspnetconnectedmode\\dal\\employeedbnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466ECC76-B29C-4A28-8406-F9C49BAE26F1}|Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode.csproj|solutionrelative:lab1_aspnetconnectedmode\\dal\\employeedbnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\VALIDATION\\Validator.cs",
+              "RelativeDocumentMoniker": "Lab1_ASPNetConnectedMode\\VALIDATION\\Validator.cs",
+              "ToolTip": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\VALIDATION\\Validator.cs",
+              "RelativeToolTip": "Lab1_ASPNetConnectedMode\\VALIDATION\\Validator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:16:24.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\Web.config",
+              "RelativeDocumentMoniker": "Lab1_ASPNetConnectedMode\\Web.config",
+              "ToolTip": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\Web.config",
+              "RelativeToolTip": "Lab1_ASPNetConnectedMode\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-05T12:04:46.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebFormEmployee.aspx",
+              "DocumentMoniker": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx",
+              "RelativeDocumentMoniker": "Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx",
+              "ToolTip": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx",
+              "RelativeToolTip": "Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T16:31:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\BLL\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab1_ASPNetConnectedMode\\BLL\\Employee.cs",
+              "ToolTip": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\BLL\\Employee.cs",
+              "RelativeToolTip": "Lab1_ASPNetConnectedMode\\BLL\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:29:33.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtilityDB.cs",
+              "DocumentMoniker": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\DAL\\UtilityDB.cs",
+              "RelativeDocumentMoniker": "Lab1_ASPNetConnectedMode\\DAL\\UtilityDB.cs",
+              "ToolTip": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\DAL\\UtilityDB.cs",
+              "RelativeToolTip": "Lab1_ASPNetConnectedMode\\DAL\\UtilityDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:03:39.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebFormEmployee.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx.cs",
+              "RelativeDocumentMoniker": "Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx.cs",
+              "ToolTip": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx.cs",
+              "RelativeToolTip": "Lab1_ASPNetConnectedMode\\GUI\\WebFormEmployee.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:20:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDBNew.cs",
+              "DocumentMoniker": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\DAL\\EmployeeDBNew.cs",
+              "RelativeDocumentMoniker": "Lab1_ASPNetConnectedMode\\DAL\\EmployeeDBNew.cs",
+              "ToolTip": "C:\\Users\\ariam\\Desktop\\Desktop Lasalle\\LaSalle\\Courses\\Semester 4\\420-DW4-AS C9_WEB SERVER II\\Lab1_ASPNetConnectedMode\\Lab1_ASPNetConnectedMode\\DAL\\EmployeeDBNew.cs",
+              "RelativeToolTip": "Lab1_ASPNetConnectedMode\\DAL\\EmployeeDBNew.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:37:07.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

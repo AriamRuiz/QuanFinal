@@ -1,0 +1,7 @@
+C:\Users\ariam\Desktop\Desktop Lasalle\LaSalle\Courses\Semester 4\420-DW4-AS C9_WEB SERVER II\Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode\bin\Lab1_ASPNetConnectedMode.dll.config
+C:\Users\ariam\Desktop\Desktop Lasalle\LaSalle\Courses\Semester 4\420-DW4-AS C9_WEB SERVER II\Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode\bin\Lab1_ASPNetConnectedMode.dll
+C:\Users\ariam\Desktop\Desktop Lasalle\LaSalle\Courses\Semester 4\420-DW4-AS C9_WEB SERVER II\Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode\bin\Lab1_ASPNetConnectedMode.pdb
+C:\Users\ariam\Desktop\Desktop Lasalle\LaSalle\Courses\Semester 4\420-DW4-AS C9_WEB SERVER II\Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode\obj\Debug\Lab1_ASPNetConnectedMode.csproj.AssemblyReference.cache
+C:\Users\ariam\Desktop\Desktop Lasalle\LaSalle\Courses\Semester 4\420-DW4-AS C9_WEB SERVER II\Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode\obj\Debug\Lab1_ASPNetConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\ariam\Desktop\Desktop Lasalle\LaSalle\Courses\Semester 4\420-DW4-AS C9_WEB SERVER II\Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode\obj\Debug\Lab1_ASPNetConnectedMode.dll
+C:\Users\ariam\Desktop\Desktop Lasalle\LaSalle\Courses\Semester 4\420-DW4-AS C9_WEB SERVER II\Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode\obj\Debug\Lab1_ASPNetConnectedMode.pdb
